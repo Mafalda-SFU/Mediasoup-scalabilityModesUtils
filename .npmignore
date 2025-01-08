@@ -1,4 +1,5 @@
 .github/
+.vscode/
 scripts/
 src/
 index.ts
