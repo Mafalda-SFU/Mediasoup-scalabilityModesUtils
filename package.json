@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mafalda-SFU/scalabilityModesUtils.git"
+    "url": "git+https://github.com/Mafalda-SFU/Mediasoup-scalabilityModesUtils.git"
   },
   "keywords": [
     "Mediasoup",
@@ -24,9 +24,9 @@
   "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mafalda-SFU/scalabilityModesUtils/issues"
+    "url": "https://github.com/Mafalda-SFU/Mediasoup-scalabilityModesUtils/issues"
   },
-  "homepage": "https://github.com/Mafalda-SFU/scalabilityModesUtils#readme",
+  "homepage": "https://github.com/Mafalda-SFU/Mediasoup-scalabilityModesUtils#readme",
   "devDependencies": {
     "tar-stream": "^3.1.7",
     "typescript": "^5.8.2"
